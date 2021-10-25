@@ -34,25 +34,34 @@
   - wall detection
   - Live path graphing on LCD (Since the robot always determines its own direction and speed, we can plot the path it travels, and essentially draw a picture of the tape line that it sees. We assume an initial orientation of moving up in the y direction, and use the last known point to calculate the coordinates of the next point through some trigonometric identities and formulae. This image is shown on the LCD as the robot traverses its path)
 
-Appendix A – Robot pictures
-A-1) Front, top, and side view of our robot
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-A-2) wiring and position of our optical sensors
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-A-3) wiring and placement of the Motor Hat and Raspberry Pi on the robot
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-A-4) Back view of our robot with camera and sonar sensor wiring
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+**Appendix A – Robot pictures**
 
-Appendix B - Other
-Fritzing:
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
- Reflective optical sensor configuration diagram:
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) 
- Graphical representation of GUI graph algorithm:
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+●	A-1) Front, top, and side view of our robot
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/front_robot.jpg?raw=true)
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/top_robot.jpg?raw=true)
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/side_robot.jpg?raw=true)
+  - 
+●	A-2) wiring and position of our optical sensors
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/wiring_robot_sensor_top.jpg?raw=true)
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/wiring_robot_sensor.jpg?raw=true)
+  - 
+●	A-3) wiring and placement of the Motor Hat and Raspberry Pi on the robot
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/wiring_robot_hat.jpg?raw=true)
+  - 
+●	A-4) Back view of our robot with camera and sonar sensor wiring
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/back_robot.jpg?raw=true)
+  - 
+
+**Appendix B - Other**
+
+●	Fritzing:
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/fritzing.png?raw=true)
+  - 
+●	Reflective optical sensor configuration diagram:
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/sensor_diagram.png?raw=true)
+  - 
+●	Graphical representation of GUI graph algorithm:
+  - ![alt text](https://github.com/Priahi/zipper-the-line-tracker/blob/master/images/gui_calc_diagram.png?raw=true)
+  - 
 
 
